@@ -32,5 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-2001&" alt="lalitkumar-2001" /></p>
 
-<p>  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>  </p>
+<p><img src="https://github.com/LalitKumar-2001/LalitKumar-2001/blob/master/images/codeStats.svg" alt="WakaTime Stats"/></p>
