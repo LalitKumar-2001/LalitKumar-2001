@@ -31,5 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-2001&show_icons=true&locale=en" alt="lalitkumar-2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-2001&" alt="lalitkumar-2001" /></p>
+<!--START_SECTION:waka-->
 
 <p><img align='center' src="https://github.com/LalitKumar-2001/LalitKumar-2001/blob/master/images/codeStats.svg" alt="WakaTime Stats"/></p>
+
+<!--END_SECTION:waka-->
