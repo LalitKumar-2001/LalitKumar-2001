@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-2001&" alt="lalitkumar-2001" /></p>
 <!--START_SECTION:waka-->
 ```text
-Dart    2 hrs 36 mins   ████████████████████████▓   98.72 % 
+Dart    2 hrs 36 mins   ████████████████████████▓   98.72 % <br>
 CMake   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
