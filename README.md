@@ -38,3 +38,6 @@ Dart          4 hrs 19 mins   ████████████████�
 CMake         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % <br>
 ```
 <!--END_SECTION:waka-->
+<div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LalitKumar-2001&show_icons=true&theme=tokyonight)
+</div>
