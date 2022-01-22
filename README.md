@@ -66,12 +66,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumar-2001&show_icons=true&locale=en" alt="lalitkumar-2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-2001&" alt="lalitkumar-2001" /></p>
+
+<h3 align='center'>This section shows the waka plugin stats about the time I have spent using different languages</h1>
 <!--START_SECTION:waka-->
-```text
-Dart   4 hrs 12 mins   ██████████████████▒░░░░░░   72.87 % 
-C++    37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-CSS    24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-HTML   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-PHP    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+```text<br>
+Dart   4 hrs 12 mins   ██████████████████▒░░░░░░   72.87 % <br>
+C++    37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % <br>
+CSS    24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % <br>
+HTML   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % <br>
+PHP    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % <br>
 ```
 <!--END_SECTION:waka-->
