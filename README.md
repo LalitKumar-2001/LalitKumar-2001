@@ -67,8 +67,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumar-2001&" alt="lalitkumar-2001" /></p>
 <!--START_SECTION:waka-->
-```<br>
-Dart          4 hrs 19 mins   ████████████████████████▓   99.09 % <br>
-CMake         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % <br>
+```text
+Dart   4 hrs 12 mins   ██████████████████▒░░░░░░   72.87 % 
+C++    37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+CSS    24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+HTML   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+PHP    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
