@@ -69,8 +69,8 @@
 
 <h3 align='center'>This section shows the waka plugin stats about the time I have spent using different languages</h1>
 <!--START_SECTION:waka-->
-```text
-Dart     59 mins         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+```text<br>
+Dart     59 mins         ███████░░░░░░░░░░░░░░░░░░   28.59 % <br>
 Python   53 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
 C++      37 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
 CSS      24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
