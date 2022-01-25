@@ -17,6 +17,7 @@
 ## :email: Connect with me on:
 
 <!--
+      "These are previous social handle links which were styled differently"
 [<img align="left" alt="LalitKumar-2001" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LalitKumar | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LalitKumar | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
