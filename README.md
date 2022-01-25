@@ -56,6 +56,7 @@
 <a href="https://www.codechef.com/users/k_lalit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="k_lalit" height="30" width="40" /></a>
  
 <a href="https://www.hackerearth.com/@lalitkumar.vssut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lalitkumar.vssut" height="30" width="40" /></a>
+
 </p>
 -->
 
