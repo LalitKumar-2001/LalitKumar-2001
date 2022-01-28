@@ -71,11 +71,11 @@
 
 <h3 align='center'>This section shows the waka plugin stats about the time I have spent using different languages</h1>
 <!--START_SECTION:waka-->
-```text<br>
-Python   53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.45 % <br>
-C++      37 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 % <br>
-Dart     33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.29 % <br>
-CSS      24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % <br>
-HTML     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % <br>
+```text
+Dart     1 hr 10 mins    ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Python   53 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+C++      37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 % 
+CSS      24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+HTML     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 <!--END_SECTION:waka-->
