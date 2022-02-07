@@ -72,8 +72,10 @@
 <h3 align='center'>This section shows the waka plugin stats about the time I have spent using different languages</h1>
 <!--START_SECTION:waka-->
 ```text
-Dart          1 hr 7 mins     ██████████████████████▓░░   90.15 % 
-Kotlin        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Markdown      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Dart       1 hr 7 mins     ███████████████▒░░░░░░░░░   60.70 % 
+C          34 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 % 
+Kotlin     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+C++        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 <!--END_SECTION:waka-->
