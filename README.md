@@ -72,9 +72,9 @@
 <h3 align='center'>This section shows the waka plugin stats about the time I have spent using different languages</h1>
 <!--START_SECTION:waka-->
 ```text
-Total: 1 hr 54 mins
+Total: 3 hrs 8 mins
 
-C      1 hr 52 mins    ████████████████████████▓   98.86 % 
-Dart   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+C      3 hrs 6 mins    ████████████████████████▓   99.31 % 
+Dart   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
