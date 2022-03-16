@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2022 - To: 14 March 2022
+From: 08 March 2022 - To: 15 March 2022
 
 C++   1 hr 5 mins     █████████████████████████   100.00 %
 ```
