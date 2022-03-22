@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/klalit2000" target="blank"><img src="https://img.shields.io/twitter/follow/klalit2000?logo=twitter&style=for-the-badge" alt="klalit2000" /></a> </p>
 
-- 🔭 I’m currently working on **Classeto** an app to handle online classes.
+- 🔭 I’m currently working on **Classeto** an app to handle online classes and Dogo, an app for dog owners.
 - I'm Currently learning Flutter along with Selenium.
 
 - 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter**
 
 - 📫 How to reach me **kumarlalit750@gmail.com**
 
-- ⚡ My Interests **Finance**
+- ⚡ My Interests **Finance**, **MANAGEMENT**
 
 ## :email: Connect with me on:
 
