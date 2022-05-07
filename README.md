@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2022 - To: 05 May 2022
+From: 29 April 2022 - To: 06 May 2022
 
 C      20 mins         ██████████████░░░░░░░░░░░   55.58 %
 Dart   16 mins         ███████████░░░░░░░░░░░░░░   44.42 %
