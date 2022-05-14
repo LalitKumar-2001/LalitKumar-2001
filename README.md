@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
 Dart             8 hrs 17 mins   ██████████████████████▒░░   89.38 %
 HTML             55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
