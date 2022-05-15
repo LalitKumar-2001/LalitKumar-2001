@@ -73,14 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-Dart             8 hrs 17 mins   ██████████████████████▒░░   89.38 %
-HTML             55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Dart             8 hrs 17 mins   █████████████████████████   99.81 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
