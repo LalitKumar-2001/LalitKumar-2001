@@ -73,10 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 May 2022 - To: 14 May 2022
+From: 08 May 2022 - To: 15 May 2022
 
-Dart             8 hrs 17 mins   █████████████████████████   99.81 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Dart             5 hrs 52 mins   █████████████████████████   99.46 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+HTML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
