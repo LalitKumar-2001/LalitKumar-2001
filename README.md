@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
 Dart   3 mins          █████████████████████████   100.00 %
 ```
