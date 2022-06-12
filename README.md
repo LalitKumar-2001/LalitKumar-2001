@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
+From: 04 June 2022 - To: 11 June 2022
 
-Dart   7 mins          █████████████████████████   100.00 %
+Dart   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
