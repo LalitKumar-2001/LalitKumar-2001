@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
 Python   27 mins         ████████████████▓░░░░░░░░   66.62 %
 Dart     13 mins         ████████▒░░░░░░░░░░░░░░░░   33.38 %
