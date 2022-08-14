@@ -73,7 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 August 2022 - To: 13 August 2022
+
+JavaScript   8 mins          ███████████░░░░░░░░░░░░░░   44.12 %
+HTML         6 mins          ████████▒░░░░░░░░░░░░░░░░   33.87 %
+C            3 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
 ```
 
 <!--END_SECTION:waka-->
