@@ -73,9 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
-HTML   11 mins         █████████████████████████   100.00 %
+HTML    11 mins         ███████████████████▓░░░░░   78.97 %
+C++     2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
