@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
 CSS    55 mins         █████████████████████▓░░░   87.01 %
 HTML   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
