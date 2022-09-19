@@ -73,10 +73,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 September 2022 - To: 17 September 2022
+From: 11 September 2022 - To: 18 September 2022
 
-Bash   1 hr 23 mins    ████████████████████████▓   98.94 %
-CSS    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Dart             2 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.58 %
+Bash             1 hr 48 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 %
+HTML             51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
+YAML             17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+textmate         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Python           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
