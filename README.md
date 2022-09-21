@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
 Dart             2 hrs 55 mins   ██████████▓░░░░░░░░░░░░░░   42.48 %
 Bash             1 hr 48 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.19 %
