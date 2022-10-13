@@ -84,3 +84,6 @@ Other        10 mins         █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+<h3 align='center'>My Badges</h3>
+
+[![@lalitkumar's Holopin board](https://holopin.me/lalitkumar)](https://holopin.io/@lalitkumar)
