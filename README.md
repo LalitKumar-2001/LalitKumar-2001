@@ -73,7 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 October 2022 - To: 28 October 2022
+
+Properties       39 mins         ████████████████░░░░░░░░░   63.69 %
+Dart             21 mins         ████████▓░░░░░░░░░░░░░░░░   35.20 %
+HTML             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
