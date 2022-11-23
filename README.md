@@ -73,7 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 November 2022 - To: 22 November 2022
+
+Dart   1 hr 25 mins    ████████████████████████▓   99.13 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
