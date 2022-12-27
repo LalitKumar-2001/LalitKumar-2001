@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter**
 
-- 📫 How to reach me **kumarlalit750@gmail.com**
+- 📫 Reach me at **kumarlalit750@gmail.com**
 
-- ⚡ My Interests **Finance**, **MANAGEMENT**
+- ⚡ My Interests **Finance**, **MANAGEMENT**, **Blockchain**
 
 ## :email: Connect with me on:
 
