@@ -5,10 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/LalitKumarOD" target="blank"><img src="https://img.shields.io/twitter/follow/LalitKumarOD?logo=twitter&style=for-the-badge" alt="LalitKumarOD" /></a> </p>
 
-- 🔭 I’m currently working on **Classeto** an app to handle online classes and Dogo, an app for dog owners.
-- I'm Currently learning Flutter along with Selenium.
+- 🔭 I’m currently working on **PawSphere**, a cross platform application to cater all needs of pets and pet owners.
+- 👾 I'm Currently learning NodeJS.
 
-- 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter**
+- 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter,Flask,Django**
 
 - 📫 Reach me at **kumarlalit750@gmail.com**
 
