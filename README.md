@@ -73,7 +73,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 December 2022 - To: 04 January 2023
+
+Python   54 mins         ████████████████████░░░░░   80.14 %
+Text     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+HTML     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
