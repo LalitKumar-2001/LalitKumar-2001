@@ -73,12 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 January 2023 - To: 21 January 2023
-
-HTML         9 mins          ██████████████████████░░░   88.49 %
-Python       1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-PostScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
