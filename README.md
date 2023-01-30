@@ -73,9 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-Dart   58 mins         █████████████████████████   100.00 %
+Dart   1 hr 15 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
