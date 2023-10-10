@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
 CSS      5 mins          ███████████▒░░░░░░░░░░░░░   45.08 %
 Dart     3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.04 %
