@@ -73,10 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-GitIgnore file   0 secs          ██████████████████░░░░░░░   72.34 %
-Markdown         0 secs          ███████░░░░░░░░░░░░░░░░░░   27.66 %
+Python           39 mins         ████████████▓░░░░░░░░░░░░   50.16 %
+HTML             37 mins         ███████████▓░░░░░░░░░░░░░   46.83 %
+Other            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
