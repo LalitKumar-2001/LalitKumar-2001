@@ -73,13 +73,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-HTML             1 hr 51 mins    ████████████████░░░░░░░░░   64.51 %
-Python           58 mins         ████████▓░░░░░░░░░░░░░░░░   34.11 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+HTML             1 hr 51 mins    ███████████████▒░░░░░░░░░   61.36 %
+Python           58 mins         ████████░░░░░░░░░░░░░░░░░   32.45 %
+Markdown         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Dart             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
