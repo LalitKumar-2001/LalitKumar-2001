@@ -73,7 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2023 - To: 07 November 2023
+From: 01 November 2023 - To: 08 November 2023
 
 HTML       1 hr 30 mins    █████████████████▓░░░░░░░   71.17 %
 C++        15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
