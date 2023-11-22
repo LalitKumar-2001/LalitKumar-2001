@@ -73,11 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2023 - To: 19 November 2023
+From: 14 November 2023 - To: 21 November 2023
 
-HTML   3 hrs 4 mins    ███████████████████░░░░░░   76.43 %
-CSS    56 mins         ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-Dart   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
