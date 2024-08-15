@@ -73,11 +73,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-JSON     13 mins         ██████████████████▓░░░░░░   74.72 %
-Python   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Other    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+JSON     13 mins         ██████████████████▓░░░░░░   74.69 %
+Python   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+Other    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 ```
 
 <!--END_SECTION:waka-->
