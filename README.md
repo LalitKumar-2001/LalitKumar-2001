@@ -73,10 +73,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2024 - To: 14 September 2024
+From: 08 September 2024 - To: 15 September 2024
 
-JSON   28 mins         █████████████░░░░░░░░░░░░   51.52 %
-YAML   26 mins         ████████████░░░░░░░░░░░░░   48.48 %
+JSON   33 mins         █████████████▓░░░░░░░░░░░   55.33 %
+YAML   26 mins         ███████████▒░░░░░░░░░░░░░   44.67 %
 ```
 
 <!--END_SECTION:waka-->
