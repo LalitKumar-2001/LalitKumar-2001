@@ -73,13 +73,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
-Python   39 mins         ██████████████████▓░░░░░░   75.15 %
-JSON     8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.81 %
-CSV      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Other    1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
