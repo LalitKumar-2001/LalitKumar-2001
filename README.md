@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/LalitKumarOD" target="blank"><img src="https://img.shields.io/twitter/follow/LalitKumarOD?logo=twitter&style=for-the-badge" alt="LalitKumarOD" /></a> </p>
 
-- 🔭 I’m currently working on **PawSphere**, a cross platform application to cater all needs of pets and pet owners.
+- 🔭 I’m currently working on **FurSphere**, a cross platform application to cater all needs of pets and pet owners.
 - 👾 I'm Currently learning NodeJS.
 
 - 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter,Flask,Django**
