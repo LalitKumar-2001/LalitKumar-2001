@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
-<h3 align="center">Open-Source & ML-AI Enthusiast</h3>
+<h3 align="center">AWS Data Engineer Associate Certified (AWS)</h3>
+<h4 align="center">AI-ML Enthusiast, always looking for more use cases in day-to-day life and finding ways to automate my tasks as much as possible.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkumar-2001&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkumar-2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/LalitKumarOD" target="blank"><img src="https://img.shields.io/twitter/follow/LalitKumarOD?logo=twitter&style=for-the-badge" alt="LalitKumarOD" /></a> </p>
 
-- 🔭 I’m currently working on **FurSphere**, a cross platform application to cater all needs of pets and pet owners.
-- 👾 I'm Currently learning NodeJS.
+- 🔭 I’m currently building **FurSphere**, a cross platform application to cater all needs of pets and pet owners.
+- 👾 I'm working on an automation to handle changes in sql queries/ new queries being pushed. The automation will do all the tests, UAT check and then create a PR for prod push.
 
-- 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter,Flask,Django**
+- 💬 Ask me about **Python,C,C++,HTML,CSS,FLutter,MY-SQL, PrestoSQL, PostgreSQL, Yugabyte**
 
 - 📫 Reach me at **kumarlalit750@gmail.com**
 
-- ⚡ My Interests **Finance**, **MANAGEMENT**, **Blockchain**
+- ⚡ My Interests **Finance**, **MANAGEMENT**, **Databases**, **Agentic AI use cases in Cloud Management**
 
 ## :email: Connect with me on:
 
