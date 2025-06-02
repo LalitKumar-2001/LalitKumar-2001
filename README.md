@@ -74,9 +74,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-No activity tracked
+Python       19 mins         ████████████▒░░░░░░░░░░░░   49.45 %
+Other        18 mins         ███████████▓░░░░░░░░░░░░░   46.39 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
