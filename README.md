@@ -74,13 +74,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
-Python       19 mins         ██████████░░░░░░░░░░░░░░░   39.73 %
-Other        18 mins         █████████▒░░░░░░░░░░░░░░░   37.27 %
-Markdown     9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Markdown   9 mins          ████████████████████████▓   98.25 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
