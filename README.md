@@ -74,10 +74,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-JSON   4 mins          ███████████████████████▓░   95.15 %
-HTML   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
