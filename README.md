@@ -74,9 +74,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2025 - To: 05 October 2025
+From: 29 September 2025 - To: 06 October 2025
 
-No activity tracked
+TypeScript   2 hrs 34 mins   █████████████████▓░░░░░░░   70.64 %
+JavaScript   43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
+JSON         15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
