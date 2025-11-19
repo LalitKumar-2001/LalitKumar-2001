@@ -74,7 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
 Python   1 hr 22 mins    ██████████████████████▒░░   89.95 %
 Other    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
