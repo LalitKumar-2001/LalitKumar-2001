@@ -74,11 +74,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2025 - To: 21 November 2025
+From: 15 November 2025 - To: 22 November 2025
 
-Python   1 hr 1 min      ███████████████████████▓░   94.25 %
-Other    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Python       1 hr 1 min      ██████████████░░░░░░░░░░░   55.48 %
+JavaScript   31 mins         ███████░░░░░░░░░░░░░░░░░░   27.84 %
+Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TypeScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
