@@ -74,10 +74,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-JSON     4 mins          █████████████████████████   99.94 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other    8 mins          ███████████████▓░░░░░░░░░   62.90 %
+JSON     5 mins          █████████▒░░░░░░░░░░░░░░░   37.07 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
