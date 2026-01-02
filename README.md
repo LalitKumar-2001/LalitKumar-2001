@@ -74,7 +74,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
 Other    8 mins          ███████████████▓░░░░░░░░░   62.90 %
 JSON     5 mins          █████████▒░░░░░░░░░░░░░░░   37.07 %
