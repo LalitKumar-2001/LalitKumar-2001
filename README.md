@@ -74,11 +74,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-HTML         1 hr 23 mins          ████████████▒░░░░░░░░░░░░   48.87 %
-JavaScript   1 hr 5 mins           █████████▓░░░░░░░░░░░░░░░   38.30 %
-Other        21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+HTML   14 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
