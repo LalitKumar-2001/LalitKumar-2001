@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
-<h3 align="center">AWS Data Engineer Associate Certified (AWS)</h3>
+<h3 align="center">AWS Data Engineer Associate Certified (AWS) YET</h3>
 <h4 align="center">AI-ML Enthusiast, always looking for more use cases in day-to-day life and finding ways to automate my tasks as much as possible.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkumar-2001&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkumar-2001" /> </p>
